@@ -6,11 +6,11 @@
 
 ## About
 
-This is a shoes shopping, part of [Rocketseat](https://www.rocketseat.com.br/) Discover challenges.
+This is a shoes shopping landing page.
 
 ### Status
 
-Done ✅
+Building 🚧
 
 ## License
 
